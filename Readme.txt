@@ -6,6 +6,7 @@ I would recommend running this in the terminal directory after creating a new vi
 Task 1:
     I used a kaggle dataset named "webtoon_data.csv" to train a DecisionTreeClassifier and a Logistic Regression model after
     vectorizing the data using different methods
+    Data Link: https://www.kaggle.com/datasets/swarnimrai/webtoon-comics-dataset
 
 Task 2:
     Used beautiful-soup to scrape the comments from the website and then ran a sentiment analysis on it using TextBlob
